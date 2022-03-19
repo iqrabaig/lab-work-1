@@ -1,2 +1,2 @@
-# lab-work-1
+# jupyter
 its a python code 
